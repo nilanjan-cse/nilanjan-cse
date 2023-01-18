@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nilanjan-cse
 - 👀 I’m interested in Programming , Photography, Travelling.
-- 🌱 I’m currently learning Next.js and Gatsby.js along with Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects ...
+- 🌱 I'm a Angular + .Net Core Developer.
+- 💞️
 - 📫 How to reach me contact me on nilanjan4rocks@gmail.com
 
 <!---
