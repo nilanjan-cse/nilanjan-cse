@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilanjan-cse
 - 👀 I’m interested in Programming , Photography, Travelling.
-- 🌱 I'm a Angular + .Net Core Developer.
+- 🌱 I'm a React.Js + .Net Core Developer.
 - 💞️
 - 📫 How to reach me contact me on nilanjan4rocks@gmail.com
 
